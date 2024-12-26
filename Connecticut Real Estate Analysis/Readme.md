@@ -1,36 +1,40 @@
-# Connecticut Real Estate EDA Analysis  
-Exploratory Data Analysis of Connecticut Real Estate Market  
+# Connecticut-Real-Estate-EDA
+Connecticut State Real Estate Market Exploratory Data Analysis (2002-2022)
 
-Personal data analytics portfolio project. This analysis focuses on uncovering trends and insights from the real estate market in Connecticut, providing valuable information to investors, homeowners, and policymakers.  
+Personal data analytics portfolio project. This project explores the trends, patterns, and key insights of the real estate market in Connecticut over a span of two decades (2002-2022).
 
-**Power BI Storyboard Link**: [https://app.fabric.microsoft.com/links/hbhzCO8eS2?ctid=128753ab-cb28-4f82-9733-2b9b91d2aca9&pbi_source=linkShare](#) 
+## Power BI Storyboard Link
+[https://app.fabric.microsoft.com/links/hbhzCO8eS2?ctid=128753ab-cb28-4f82-9733-2b9b91d2aca9&pbi_source=linkShare]
 
-## Data  
-The dataset used in this analysis was obtained from publicly available sources, detailing property sales, valuations, and associated metrics across Connecticut.  
+## Data
+The dataset used for this analysis was sourced from [data.gov]. It contains comprehensive information on real estate transactions, prices, property types, and market trends in Connecticut.
 
-**Dataset Link**: [https://catalog.data.gov/dataset/alzheimers-disease-and-healthy-aging-data](#)
-## Overview  
-Connecticut's real estate market is diverse, with variations in property types, valuations, and sales trends across different counties. Analyzing this data helps identify patterns and anomalies in pricing, sales volume, and geographical market dynamics.  
+**Dataset Link**: [https://catalog.data.gov/dataset/alzheimers-disease-and-healthy-aging-data]
 
-## Objective  
-The objective of this project is to perform a comprehensive exploratory data analysis (EDA) of the Connecticut real estate market.  
+## Overview
+The Connecticut real estate market has undergone significant changes from 2002 to 2022. By examining this dataset, we aim to uncover trends in housing prices, sales volumes, and the popularity of different property types across Connecticut.
 
-This analysis aims to:  
-- Identify key trends in property sales and valuations.  
-- Highlight variations in property market dynamics across counties.  
-- Provide actionable insights for stakeholders such as real estate investors and local government.  
+## Objective
+The objective of this analysis is to provide valuable insights into:
 
-## Contents  
-- **Project Management**: Includes project brief and planning.  
-- **Data**: Contains raw and cleaned datasets used in the analysis.  
-- **Scripts**: Python scripts for data preprocessing and visualization.  
-- **Analysis**: Includes EDA visualizations and Tableau storyboard.  
+- Housing price trends over time.
+- Sales volume variations by year and region.
+- The popularity of different property types.
+- Key external factors influencing the Connecticut real estate market.
 
-## Key Questions  
-- Which counties have the highest average property valuations?  
-- What trends can be observed in sales volume over time?  
-- Are there significant differences in property types sold across counties?  
-- How do market dynamics vary between urban and rural areas?  
+Results from this analysis can benefit home buyers, sellers, investors, and policymakers seeking to understand the dynamics of the Connecticut real estate market.
 
----  
-This project showcases the power of data analytics in understanding and navigating complex real estate markets, providing a foundation for future predictive modeling and decision-making tools.
+## Contents
+- **Project Management**: Includes project brief and objectives.
+- **Data**: Contains raw and cleaned datasets used for analysis.
+- **Scripts**: Includes all the Python code written in Jupyter Notebook for data analysis.
+- **Analysis**: Comprises visualizations, insights, and dashboard elements.
+
+## Key Questions
+1. How have housing prices evolved in Connecticut from 2002 to 2022?
+2. Which regions in Connecticut experienced the highest growth in real estate activity?
+3. What are the most popular property types during this period?
+4. How did external economic and social factors impact the market?
+
+---
+This project highlights the power of exploratory data analysis in uncovering hidden insights from large datasets. It serves as a foundation for deeper predictive modeling and strategic decision-making in the real estate domain.
