@@ -3,7 +3,7 @@ Exploratory Data Analysis of Connecticut Real Estate Market
 
 Personal data analytics portfolio project. This analysis focuses on uncovering trends and insights from the real estate market in Connecticut, providing valuable information to investors, homeowners, and policymakers.  
 
-**Tableau Storyboard Link**: [Connecticut Real Estate EDA Storyboard](#) *(Insert your Tableau link here)*  
+**Power BI Storyboard Link**: [Connecticut Real Estate EDA Storyboard](#) *(Insert your Tableau link here)*  
 
 ## Data  
 The dataset used in this analysis was obtained from publicly available sources, detailing property sales, valuations, and associated metrics across Connecticut.  
