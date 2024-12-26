@@ -3,13 +3,12 @@ Exploratory Data Analysis of Connecticut Real Estate Market
 
 Personal data analytics portfolio project. This analysis focuses on uncovering trends and insights from the real estate market in Connecticut, providing valuable information to investors, homeowners, and policymakers.  
 
-**Power BI Storyboard Link**: [Connecticut Real Estate EDA Storyboard](#) *(Insert your Tableau link here)*  
+**Power BI Storyboard Link**: [https://app.fabric.microsoft.com/links/hbhzCO8eS2?ctid=128753ab-cb28-4f82-9733-2b9b91d2aca9&pbi_source=linkShare](#) 
 
 ## Data  
 The dataset used in this analysis was obtained from publicly available sources, detailing property sales, valuations, and associated metrics across Connecticut.  
 
-**Dataset Link**: [Connecticut Real Estate Dataset](#) *(Insert dataset link here)*  
-
+**Dataset Link**: [https://catalog.data.gov/dataset/alzheimers-disease-and-healthy-aging-data](#)
 ## Overview  
 Connecticut's real estate market is diverse, with variations in property types, valuations, and sales trends across different counties. Analyzing this data helps identify patterns and anomalies in pricing, sales volume, and geographical market dynamics.  
 
