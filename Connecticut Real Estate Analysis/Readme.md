@@ -1,7 +1,7 @@
 # Connecticut-Real-Estate-EDA
-Connecticut State Real Estate Market Exploratory Data Analysis (2002-2022)
+Connecticut State Real Estate Market Exploratory Data Analysis (2003-2022)
 
-Personal data analytics portfolio project. This project explores the trends, patterns, and key insights of the real estate market in Connecticut over a span of two decades (2002-2022).
+Personal data analytics portfolio project. This project explores the trends, patterns, and key insights of the real estate market in Connecticut over a span of two decades (2003-2022).
 
 ## Power BI Storyboard Link
 [https://app.fabric.microsoft.com/links/hbhzCO8eS2?ctid=128753ab-cb28-4f82-9733-2b9b91d2aca9&pbi_source=linkShare]
@@ -12,7 +12,7 @@ The dataset used for this analysis was sourced from [data.gov]. It contains comp
 **Dataset Link**: [https://catalog.data.gov/dataset/alzheimers-disease-and-healthy-aging-data]
 
 ## Overview
-The Connecticut real estate market has undergone significant changes from 2002 to 2022. By examining this dataset, we aim to uncover trends in housing prices, sales volumes, and the popularity of different property types across Connecticut.
+The Connecticut real estate market experienced significant changes from 2003 to 2022, largely due to the global financial crisis of 2008. However, the market has since recovered. By examining this dataset, we aim to uncover trends in housing prices, sales volumes, and the popularity of different property types across Connecticut.
 
 ## Objective
 The objective of this analysis is to provide valuable insights into:
@@ -25,13 +25,11 @@ The objective of this analysis is to provide valuable insights into:
 Results from this analysis can benefit home buyers, sellers, investors, and policymakers seeking to understand the dynamics of the Connecticut real estate market.
 
 ## Contents
-- **Project Management**: Includes project brief and objectives.
 - **Data**: Contains raw and cleaned datasets used for analysis.
-- **Scripts**: Includes all the Python code written in Jupyter Notebook for data analysis.
 - **Analysis**: Comprises visualizations, insights, and dashboard elements.
 
 ## Key Questions
-1. How have housing prices evolved in Connecticut from 2002 to 2022?
+1. How have housing prices evolved in Connecticut from 2003 to 2022?
 2. Which regions in Connecticut experienced the highest growth in real estate activity?
 3. What are the most popular property types during this period?
 4. How did external economic and social factors impact the market?
